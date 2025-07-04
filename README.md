@@ -20,7 +20,7 @@ I'm a passionate full-stack developer who builds modern and creative web/mobile 
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=dkmaigua&theme=radical&hide_border=true" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkmaigua&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkmaigua&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 
 ---
