@@ -4,7 +4,7 @@
 
 I'm a passionate full-stack developer who builds modern and creative web/mobile applications. I have skills and experience in various technologies e.g. AI, ML, Mobile, Web, and Dapp Development. I'm always open to connecting with fellow developers, discussing new ideas, or collaborating on exciting projects. Feel free to reach out!
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dkmaigua) [![X (formery Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dkmaigua) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maigua) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dennismaigua08@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dkmaigua) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dkmaigua) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maigua) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dennismaigua08@gmail.com)
 
 ---
 
