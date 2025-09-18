@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=dkmaigua&label=Profile%20views&color=0e75b6&style=flat)
 
-I'm a passionate full-stack developer who builds modern and creative web/mobile applications. I have skills and experience in various technologies e.g. AI, ML, Mobile, Web, and Dapp Development. I'm always open to connecting with fellow developers, discussing new ideas, or collaborating on exciting projects. Feel free to reach out!
+A full-stack developer who develops AI, ML, Blockchain, E-Commerce, Fintech, and other Software applications. I'm always open to connecting with my peers, discussing new ideas, and collaborating on new projects. Feel free to reach out for any enquiries.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dkmaigua) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dkmaigua) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maigua) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dennismaigua08@gmail.com)
 
